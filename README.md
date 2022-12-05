@@ -1,0 +1,1 @@
+Test to use FastAPI to deploy machine learning model
